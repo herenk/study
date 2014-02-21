@@ -1,2 +1,3 @@
 Testing the force command.
 New line test for conflict.
+Testing the force command editted.
